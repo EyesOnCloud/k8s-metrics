@@ -48,7 +48,7 @@ spec:
     name: metrics-server
     namespace: kube-system
   group: metrics.k8s.io
-  version: v1beta1
+  version: v1
   insecureSkipTLSVerify: true
   groupPriorityMinimum: 100
   versionPriority: 100
